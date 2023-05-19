@@ -1,0 +1,3 @@
+https://cloud.mongodb.com/v2/6466cdb5e295f335c0612e10#/clusters/detail/zura
+pmn1kGqBm4DE8FEH
+mongodb+srv://aarav1656:pmn1kGqBm4DE8FEH@zura.bidmyup.mongodb.net/
